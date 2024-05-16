@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ranjhal</h1>
+<h1 align="center">Hey 👋, I'm Ranjhal</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjhal23&label=Profile%20views&color=0e75b6&style=flat" alt="ranjhal23" /> </p>
